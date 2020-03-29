@@ -58,6 +58,10 @@ p {
   margin-top: 16px;
 }
 
+#image {
+  max-width: 500px;
+  display:block;
+}
 .center {
   margin: auto;
   width: 50%;
